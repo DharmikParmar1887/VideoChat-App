@@ -1,6 +1,6 @@
 # Videochat-App-VirtuMeetGurus
 Inside this repository, you'll find the source code for VirtuMeetGurus, a video call and meeting app created with WebRTC technology and integrated with Agora.io services. VirtuMeetGurus empowers users to participate in high-quality, real-time video conversations, ensuring effortless virtual meetings, conferences, and interactive dialogues.
-#### Link to website : [VirtuMeetGurus](http://127.0.0.1:5500/VideoChat-App/lobby.html)
+#### Link to website : [VirtuMeetGurus](https://webgurumeet.web.app/lobby.html)
 ## WebRTC
 [WebRTC](https://www.webrtc.org) Web Real-Time Communication (WebRTC) is an open-source initiative facilitating real-time interaction between web browsers and mobile apps. It offers JavaScript APIs and protocols for integrating audio, video, and data sharing features into web applications, eliminating the need for extra software or plugins.
 ## agora.io
