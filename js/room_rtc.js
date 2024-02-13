@@ -266,7 +266,7 @@ let leaveStream = async (e) => {
 
 const copyMeetingLink = async () => {
 
-    let meetingLink = `https://webgurumeet.web.app/index.html?room=${roomID}`;
+    let meetingLink = `https://videochatapp-gules.vercel.app/index.html?room=${roomID}`;
     await navigator.clipboard.writeText(meetingLink);
 
     let popup = document.getElementById('popup');
