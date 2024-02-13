@@ -27,7 +27,7 @@ form.addEventListener('submit', (e) => {
     let inviteCode = '';
     if (roomID != 'null') {
 
-        meetingLink += `https://videochatapp-gules.vercel.app/index.html?room=${roomID}`;
+        meetingLink += `https://webgurumeet.web.app/index.html?room=${roomID}`;
         window.location = `index.html?room=${roomID}`;
 
     } else if (roomID == 'null') {
@@ -50,7 +50,7 @@ form.addEventListener('submit', (e) => {
             }
         }
 
-        meetingLink += `https://videochatapp-gules.vercel.app/index.html?room=${inviteCode}`;
+        meetingLink += `https://webgurumeet.web.app/index.html?room=${inviteCode}`;
 
         window.location = `index.html?room=${inviteCode}`;
     }
